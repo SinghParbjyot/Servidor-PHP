@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "examen1ev\\clases\\": "./clases",
+      "Database\\": "./Database"
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.6"
+  }
+}

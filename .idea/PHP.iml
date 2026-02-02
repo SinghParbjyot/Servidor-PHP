@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/App/Instituto/./Class" isTestSource="false" packagePrefix="Controladores\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./Class" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./View" isTestSource="false" packagePrefix="Plantilla\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./Database" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./clases" isTestSource="false" packagePrefix="examen1ev\clases\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./Class" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./Class" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./Class" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./Class" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./Class" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./Class" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./Class" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./View" isTestSource="false" packagePrefix="Plantilla\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./View" isTestSource="false" packagePrefix="Plantilla\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./View" isTestSource="false" packagePrefix="Plantilla\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./View" isTestSource="false" packagePrefix="Plantilla\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./View" isTestSource="false" packagePrefix="Plantilla\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./View" isTestSource="false" packagePrefix="Plantilla\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/DB/./View" isTestSource="false" packagePrefix="Plantilla\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./Database" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./Database" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./Database" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./Database" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./Database" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./Database" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./Database" isTestSource="false" packagePrefix="Database\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./clases" isTestSource="false" packagePrefix="examen1ev\clases\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./clases" isTestSource="false" packagePrefix="examen1ev\clases\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./clases" isTestSource="false" packagePrefix="examen1ev\clases\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./clases" isTestSource="false" packagePrefix="examen1ev\clases\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./clases" isTestSource="false" packagePrefix="examen1ev\clases\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./clases" isTestSource="false" packagePrefix="examen1ev\clases\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/examen1ev/./clases" isTestSource="false" packagePrefix="examen1ev\clases\" />
+      <excludeFolder url="file://$MODULE_DIR$/App/CalculadoraRacional/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/App/CalculadoraRacional/vendor/phar-io/composer-distributor" />
+      <excludeFolder url="file://$MODULE_DIR$/App/CalculadoraRacional/vendor/phar-io/executor" />
+      <excludeFolder url="file://$MODULE_DIR$/App/CalculadoraRacional/vendor/phar-io/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/App/CalculadoraRacional/vendor/phar-io/gnupg" />
+      <excludeFolder url="file://$MODULE_DIR$/App/CalculadoraRacional/vendor/phpdocumentor/shim" />
+      <excludeFolder url="file://$MODULE_DIR$/App/DB/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/App/DB/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/App/DB/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/App/DB/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/App/DB/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/App/DB/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/App/DB/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/App/Instituto/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/App/Instituto/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/App/Instituto/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/App/Instituto/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/App/examen1ev/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/App/examen1ev/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/App/examen1ev/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/App/examen1ev/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/App/examen1ev/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/App/examen1ev/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/App/examen1ev/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/App/composer/vendor/composer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

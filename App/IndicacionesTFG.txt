@@ -1,0 +1,15 @@
+- Introducción : Tomar requisitos funcionales y no funcionales.
+- Registro de usuarios utilizar ids, podemos utilizar las apis de google, entra id o la de apple. 
+-aws service autoescalado 
+-Bases de datos PostgreSQL
+-CI/CD
+-Azure devops
+-appre micro orm 
+-TPV Virtuales de un banco preguntar a hector
+-Api se puede exportar a un excel zona de administración como funciona copernico
+-3 Secciones : cara la vista , adminstracion y eventos y usarios 
+-Administración : Event managment , usuarios los que se van creando y lso eventos q se van creado detalles de los eventos
+- se pueda registarar directamente o que pueda ver la landing y ya luego me registro.
+-Eventos : parte de landing y cara de vista
+Administrador nose suba directamente
+-Parte front con blazor framework de .net

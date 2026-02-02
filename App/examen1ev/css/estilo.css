@@ -1,0 +1,257 @@
+
+:root {
+    --color-border-legend: 3px solid crimson;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.containerIndex{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width: 90vw;
+}
+
+.presentacion {
+    border: 0.25em solid;
+    padding: 10px;
+    background-color: buttonhighlight;
+    font-size: 1.4em;
+    font-weight: bold;
+    margin: 10px
+}
+
+li {
+    color: darkgreen;
+    margin-bottom: 10px;
+    size:1.6em;
+}
+
+ul{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.contenedorJugar{
+    display:flex;
+    flex-direction:row;
+    height: 95vh;
+    margin:5px;
+
+}
+
+.error{
+    color:crimson;
+    font-style: oblique;
+    font-size:1.5em;
+    font-family: "DejaVu Sans";
+    align-items: end;
+}
+
+.opciones{
+    display:flex;
+    flex-direction: column;
+    background: floralwhite;
+    border: darkblue 1px solid;
+    flex:1 1 50%;
+    margin: 2px;
+
+}
+
+.informacion{
+    display:flex;
+    flex-direction: column;
+    background: floralwhite;
+    border: darkblue 1px solid;
+    flex:1 1 50%;
+    margin:2px;
+}
+
+h1{
+    color:darkcyan;
+    font-width: bold;
+    font-size:3rem;
+    text-align: center;
+}
+
+h2{
+    color:darkmagenta;
+    font-size: 2.1rem;
+    font-weight: bold;
+    align-self: center;
+    text-align: center;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+legend{
+    padding:5px ;
+    padding-left:10px ;
+    padding-right:10px ;
+    margin-lef:10px;
+    margin-right:10px;
+    position: relative;
+    background:#E5E4E2;
+    color: darkblue;
+    font-size: 1.4rem;
+    font-style: oblique;
+    border-top: var(--color-border-legend);
+    border-bottom: 4px solid darkblue;
+
+}
+
+legend:before {
+    position: absolute;
+    content: '';
+    border-left:  var(--color-border-legend);
+    height: 50%;
+    left: 0px;
+    top: 0px;
+}
+
+legend:after {
+    position: absolute;
+    content: '';
+    height: 50%;
+    border-right:  var(--color-border-legend);
+    right: 0px;
+    top: 0px;
+}
+
+fieldset{
+    margin:10%;
+    margin-top:2%;
+    border:  var(--color-border-legend);
+    border-radius: 3px;
+    background:#E5E4E2;
+    overflow: auto;
+
+}
+
+fieldset.jugada{
+    display:flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+
+}
+
+input[type=submit]{
+    color:darkblue;
+    font-size: 1.6em;
+    font-style: oblique;
+    margin-top:5%;
+    margin-bottom:5%;
+    border-radius: 5px;
+}
+
+select, option {
+    color: black !important;
+    font-width: bold;
+    font-style: oblique;
+    font-size: 1.4rem;
+    margin-top:5%;
+    margin-bottom:5%;
+    border-radius: 5px;
+}
+
+.Azul { background-color: blue; color: white; }
+.Rojo { background-color: red; color: white; }
+.Verde { background-color: green; color: white; }
+.Marron { background-color: brown; color: white; }
+.Naranja { background-color: orange; color: black; }
+.Violeta { background-color: violet; color: black; }
+.Amarillo { background-color: yellow; color: black; }
+.Rosa { background-color: pink; color: black; }
+
+span.negro, span.blanco {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 1.3em;
+    margin-right: 3px;
+    vertical-align: middle;
+}
+
+span.negro {
+    background: black;
+    color: white;
+}
+
+span.blanco {
+    background: white;
+    color: black;
+    border: 2px solid black;
+    width: 31px;
+    height: 31px;
+    line-height: 31px;
+}
+
+.separador {
+    display: inline-block;
+    width: 30px;
+}
+
+span.Azul, span.Rojo, span.Naranja, span.Verde, span.Violeta, span.Amarillo, span.Marron, span.Rosa {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.3em;
+    margin: 1px;
+    vertical-align: middle;
+}
+
+.fila_resultados {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.Color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 22%;
+    height: 40px;
+    margin: 1.5%;
+
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.final {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+    border: 4px solid darkblue;
+    padding: 20px;
+    background-color: #ccc;
+    min-height: 50vh;
+}
+
+.final h3 {
+    color: blueviolet;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.final .fila_resultados {
+    justify-content: center;
+}

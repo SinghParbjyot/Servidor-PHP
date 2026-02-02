@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <phpcs_by_interpreter asDefaultInterpreter="true" interpreter_id="f342af6c-3d10-4843-97bb-c98fcdf39553" timeout="30000" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/App/Instituto/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/App/Instituto/vendor/composer" />
+      <path value="$PROJECT_DIR$/App/Instituto/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/App/Instituto/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/App/DB/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/App/DB/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/App/DB/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/App/DB/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/App/DB/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/App/DB/vendor/composer" />
+      <path value="$PROJECT_DIR$/App/DB/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/App/examen1ev/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/App/examen1ev/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/App/examen1ev/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/App/examen1ev/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/App/examen1ev/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/App/examen1ev/vendor/composer" />
+      <path value="$PROJECT_DIR$/App/examen1ev/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/App/CalculadoraRacional/vendor/phpdocumentor/shim" />
+      <path value="$PROJECT_DIR$/App/CalculadoraRacional/vendor/phar-io/composer-distributor" />
+      <path value="$PROJECT_DIR$/App/CalculadoraRacional/vendor/phar-io/executor" />
+      <path value="$PROJECT_DIR$/App/CalculadoraRacional/vendor/phar-io/filesystem" />
+      <path value="$PROJECT_DIR$/App/CalculadoraRacional/vendor/phar-io/gnupg" />
+      <path value="$PROJECT_DIR$/App/CalculadoraRacional/vendor/composer" />
+      <path value="$PROJECT_DIR$/App/composer/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.4">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStan">
+    <PhpStan_settings>
+      <phpstan_by_interpreter asDefaultInterpreter="true" interpreter_id="f342af6c-3d10-4843-97bb-c98fcdf39553" timeout="60000" />
+    </PhpStan_settings>
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="Psalm">
+    <Psalm_settings>
+      <psalm_fixer_by_interpreter asDefaultInterpreter="true" interpreter_id="f342af6c-3d10-4843-97bb-c98fcdf39553" timeout="60000" />
+    </Psalm_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
